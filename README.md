@@ -3,9 +3,6 @@
 🚀 Data Engineer | Building Scalable Data Pipelines on GCP | Cloud Enthusiast | Python, SQL, BigQuery, Dataflow | Helping Organizations Unlock Insights from Data".
 
 
-## Certifications
-![AWS DevOps Certification](https://github.com/vinaygit1996/vinaygit1996/raw/main/certifications/aws.jpg)
-
 ## My Tech Stack:
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com)
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)](https://www.terraform.io)
