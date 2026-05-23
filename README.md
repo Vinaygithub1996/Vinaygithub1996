@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vinaykumar 
 - 👀 I’m Senior Analyst.
-🚀 Data Engineer | Building Scalable Data Pipelines on GCP | Cloud Enthusiast | Python, SQL, BigQuery, Dataflow | Helping Organizations Unlock Insights from Data".
+🚀 Data Engineer  | Cloud Enthusiast | Python, SQL, BigQuery, Dataflow | Helping Organizations Unlock Insights from Data".
 
 
 ## My Tech Stack:
